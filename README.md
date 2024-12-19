@@ -1,1 +1,8 @@
-# project-one
+# project-1
+Project one focuses on the factors affecting graduation rates of public high school students. Data focuses on states and the school year 2012-2013. In this analysis we focused on graduation rates by state/region, in relation to state/federal funding per pupil, and versus class size (pupil to teacher ratio used for this). 
+Region comparisons: Visually using a bar graph, there does not appear to be a statistical difference between regions. The boxplot shows the Northeast and South regions to have much less variance in their rates compared to the Midwest and West. The Northeast and South each have outliers, Vermont and Florida respectively. In future studies an ANOVA test could be performed to analyze if any of the means of graduation rate are statistically significantly different. 
+Funding: Federal, State and Combined funding per pupil have a paositive correlation with graduation rate, but the correlation coefficients are low for both (0.121 for federal alone, 0.244 for state and 0.244 for combined). Low coefficients suggest funding (this type specifically) is not a good predictor of graduation rates. This data is limited, there are many ways schools are funding which arent taken into account, but the very low correlation also suggests other factors effect rates more than funding. 
+Class size: Pupil to Teacher Ratio and rates are negatively correlated  and have a moderately strong correlation coefficent (0.77) suggesting smaller classes are a good predictor of higher graduation rates.
+Conclusion: Future data analysis would require more years of data, more possible factors need to be analyzed, and more statistical tests need to be performed to fully analyze all factors and results. 
+
+
